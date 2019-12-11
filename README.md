@@ -5,7 +5,7 @@ Simple script to update all installed Python 3 dependencies
 Just run
 ```
 git clone https://github.com/jpiechowka/python3-update-deps-script.git
-./update-python-deps.sh
+./python3-update-deps-script/update-python-deps.sh
 ```
 
 Or if you are filling brave
